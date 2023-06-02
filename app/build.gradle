@@ -11,9 +11,8 @@ android {
         applicationId "com.adbanao"
         minSdkVersion 21
         targetSdkVersion 31
-        versionCode 140
-        versionName "2.3.5(internal3)"
-
+        versionCode 147
+        versionName "2.3.7(internal3)"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
